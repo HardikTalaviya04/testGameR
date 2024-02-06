@@ -15,4 +15,7 @@ export default StyleSheet.create({
   fontExtraLarge: {
     fontSize: width * 0.08,
   },
+  demoFont: {
+    fontSize: width * 0.1,
+  },
 });
